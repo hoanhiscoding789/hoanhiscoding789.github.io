@@ -1,0 +1,20 @@
+.bg-img1 {
+  background-color: #000;
+  height: 670px;
+  background-image: url(./resting.jpg);
+  background-size: cover;
+}
+
+.bg-img2 {
+  background-color: #000;
+  height: 670px;
+  background-image: url(./nature.jpg);
+  background-size: cover;
+}
+
+.bg-img3 {
+  background-color: #000;
+  height: 670px;
+  background-image: url(./napping.jpg);
+  background-size: cover;
+}
